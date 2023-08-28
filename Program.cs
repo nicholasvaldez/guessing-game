@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 
 Console.WriteLine("Hello! Welcome to The Guessing Game!");
 Console.WriteLine("-----------------------");
@@ -11,15 +12,18 @@ for (int i = 0; i < 4; i++)
     int parsedInput = int.Parse(input);
 
     int secretNumber = 42;
+    Console.WriteLine($"Guess {i + 1} of 4");
 
 
-    if (parsedInput == secretNumber)
+    if (parsedInput != secretNumber)
     {
-        Console.WriteLine("Buy a lottery ticket right now, that's correct!");
+        Console.WriteLine("Sorry, thats incorrect!");
+        
     }
     else 
     {
-        Console.WriteLine("Sorry, thats incorrect!");
+        Console.WriteLine("Buy a lottery ticket right now, that's correct!");
+        break;
     }
 
 }
