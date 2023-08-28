@@ -26,6 +26,14 @@ for (int i = 0; i < 4; i++)
     if (parsedInput != secretNumber)
     {
         Console.WriteLine("Sorry, thats incorrect!");
+        if (parsedInput < secretNumber)
+        {
+            Console.WriteLine("Too low!!");
+        }
+        else 
+        {
+            Console.WriteLine("Too High!!");
+        }
         
     }
     else 
