@@ -3,16 +3,24 @@ using System.ComponentModel;
 
 Console.WriteLine("Hello! Welcome to The Guessing Game!");
 Console.WriteLine("-----------------------");
+
+Random r = new Random();
+    int secretNumber = r.Next(0,100);
+    // Console.WriteLine(secretNumber);
+
 for (int i = 0; i < 4; i++)
 {
+    int remainingGuesses = 3 - i;
     Console.Write("Please guess the secret number: ");
     
 
     string input = Console.ReadLine();
     int parsedInput = int.Parse(input);
 
-    int secretNumber = 42;
-    Console.WriteLine($"Guess {i + 1} of 4");
+
+    
+    
+    Console.WriteLine($"Guess #{i + 1}. {remainingGuesses} guesses remaining.");
 
 
     if (parsedInput != secretNumber)
