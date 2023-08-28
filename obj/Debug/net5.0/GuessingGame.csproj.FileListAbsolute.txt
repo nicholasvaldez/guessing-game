@@ -1,0 +1,15 @@
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/bin/Debug/net5.0/GuessingGame.deps.json
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/bin/Debug/net5.0/GuessingGame.runtimeconfig.json
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/bin/Debug/net5.0/GuessingGame.runtimeconfig.dev.json
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/bin/Debug/net5.0/GuessingGame.dll
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/bin/Debug/net5.0/ref/GuessingGame.dll
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/bin/Debug/net5.0/GuessingGame.pdb
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/GuessingGame.csproj.AssemblyReference.cache
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/GuessingGame.AssemblyInfoInputs.cache
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/GuessingGame.AssemblyInfo.cs
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/GuessingGame.dll
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/ref/GuessingGame.dll
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/GuessingGame.pdb
+/Users/nicholasvaldez/workspace/csharp/GuessingGame/obj/Debug/net5.0/GuessingGame.genruntimeconfig.cache
